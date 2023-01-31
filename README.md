@@ -17,8 +17,8 @@ In conclusion, this project successfully applied multiple linear regression and 
 - Matplotlib
 
 ## Academic Paper
-- ![Screenshot 2023-01-31 at 3 19 18 PM](https://user-images.githubusercontent.com/69835617/215873424-e9794e76-1d56-450a-8898-80d36146aaf1.png)
+![Screenshot 2023-01-31 at 3 19 18 PM](https://user-images.githubusercontent.com/69835617/215873424-e9794e76-1d56-450a-8898-80d36146aaf1.png)
 
-- ![Screenshot 2023-01-31 at 3 19 38 PM](https://user-images.githubusercontent.com/69835617/215873499-7d7e13ec-d5f9-4ed7-9598-4b74aa6e8a23.png)
+![Screenshot 2023-01-31 at 3 19 38 PM](https://user-images.githubusercontent.com/69835617/215873499-7d7e13ec-d5f9-4ed7-9598-4b74aa6e8a23.png)
 
-- ![Screenshot 2023-01-31 at 3 20 01 PM](https://user-images.githubusercontent.com/69835617/215873564-04d92e2d-fc2c-44f5-a2bc-a69c76c4d4d6.png)
+![Screenshot 2023-01-31 at 3 20 01 PM](https://user-images.githubusercontent.com/69835617/215873564-04d92e2d-fc2c-44f5-a2bc-a69c76c4d4d6.png)
